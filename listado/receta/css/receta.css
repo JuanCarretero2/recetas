@@ -15,16 +15,25 @@
 }
 
 #ingre {
-
+margin: 5px;
 }
 
 #prep {
+    margin: 5px;
+    text-align: justify;
+}
 
+#ing {
+    padding: 5px;
+}
+
+#imag {
+    margin: 5px;
+    width: 50%;
 }
 
 #imagenre {
-    padding-top: 5px;
-    width: 30%;
+    text-align: center;
 }
 
 h1 {
@@ -32,11 +41,11 @@ h1 {
     margin: 5px;
 }
 h2 {
-    
+    margin-bottom: 5px;  
 }
 h3 {
-    
+    margin-bottom: 5px;
 }
 h4 {
-    
+
 }
