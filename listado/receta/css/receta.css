@@ -1,0 +1,42 @@
+#receta {
+    justify-content: center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+#modo {
+    text-align: center;
+    margin: 5px;
+}
+
+#intro {
+    text-align: center;
+    margin: 5px;
+}
+
+#ingre {
+
+}
+
+#prep {
+
+}
+
+#imagenre {
+    padding-top: 5px;
+    width: 30%;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px;
+}
+h2 {
+    
+}
+h3 {
+    
+}
+h4 {
+    
+}
