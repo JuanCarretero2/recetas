@@ -1,17 +1,34 @@
-https://www.hola.com/cocina/recetas/20180716127171/bocadillito-caprese/
 
-#listadorecetas {
+#listarecetas {
     justify-content: center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    
 }
 
 #receta {
-
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    justify-content: center;
+    text-align: center;
 }
+
+#contenido {
+    
+}
+
+#imagenre {
+    
+    padding-top: 5px;
+    width: 10%;
+    
+}
+
 
 
 h1 {
     font-size: 25px;
-    text-align: center;
+    text-align: left;
 }
 
 h2 {
@@ -19,9 +36,10 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 15px;  
 }
 
 h4 {
     font-size: 10px;
 }
+
