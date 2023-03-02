@@ -1,1 +1,25 @@
-#
+#listadorecetas {
+    justify-content: center;
+}
+
+#receta {
+
+}
+
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+h4 {
+    font-size: 10px;
+}
